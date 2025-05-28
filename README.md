@@ -6,6 +6,7 @@ Whether you're a recruiter, data enthusiast, or fellow analyst, feel free to exp
 **Projects Included**
 
 **1) Plant Corporation Performance Report:** Sales and gross profit analysis across countries (2022–2024)
+
 **2) Data Professional Survey Breakdown:** Analysis of 630 professionals’ views on salary, tools, career difficulty, and job satisfaction
 
-More projects coming soon!
+More projects will be added soon. For now, dive into each project by exploring the ZIP files in the folders!
