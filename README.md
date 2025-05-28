@@ -6,16 +6,19 @@ Whether you're a recruiter, data enthusiast, or fellow analyst, feel free to exp
 **Projects Included**
 
 **1. Plant Corporation Performance Report**
+
 **Focus**: YTD vs PYTD sales and gross profit (2022–2024)
 
 **Highlights**: Country-wise performance, GP% trends, account segmentation
 
 **2. Data Professional Survey Dashboard**
+
 **Focus**: Survey of 630 data professionals
 
 **Highlights**: Salary by role, entry difficulty, tool preferences, work-life balance
 
 **3. SecureBank Cybersecurity Incident Dashboard**
+
 **Focus**: Email phishing trends, training completion, and security responses
 
 **Highlights**: Incident mapping, department risk analysis, training effectiveness
