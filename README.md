@@ -1,7 +1,5 @@
 **Power BI Projects Portfolio**
-
-Welcome to my Power BI Projects repository! This collection features interactive dashboards built to explore real-world datasets and uncover actionable insights across business domains like sales, workforce analytics, and tech industry trends. Each folder contains a zipped Power BI `.pbix` file, sample data, and a dedicated project README that explains the problem statement, visual design choices, key metrics, and insights derived from the analysis.
-Whether you're a recruiter, data enthusiast, or fellow analyst, feel free to explore the dashboards and see how data storytelling, DAX, and design come together to drive informed decision-making.
+Interactive dashboards built in Power BI, turning raw data into actionable insights across business domains.
 
 **Projects Included**
 
